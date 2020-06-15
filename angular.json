@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "comem-angular-starter"
+    }
+  },
+  "defaultProject": "comem-angular-starter",
+  "cli": {
+    "analytics": false
+  }
 }
